@@ -84,8 +84,8 @@ npm run dev
 ├── components/       # Reusable UI components
 ├── lib/              # Helpers, validation logic
 ├── db/               # Drizzle schema and queries
-├── styles/           # Tailwind and custom styles
-└── .env.local        # Environment variables
+├── modules/          # Feature modules
+└── .env              # Environment variables
 ```
 
 ## 🧪 Available Scripts
@@ -101,6 +101,7 @@ npm run dev
 
 ## 🧰 Recommended VSCode Extensions
 
+- ES7+ React/Redux/React-Native snippets
 - Tailwind CSS IntelliSense
 - ESLint
 - Prettier
@@ -113,10 +114,15 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🤝 Acknowledgements
 
-- [Better Auth](https://github.com/huntabyte/better-auth)
-- [ShadCN UI](https://ui.shadcn.dev/)
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Neon](https://neon.tech/)
 - [Drizzle ORM](https://orm.drizzle.team/)
+- [ShadCN UI](https://ui.shadcn.com/)
+- [Better Auth](https://www.better-auth.com/)
 - [Lucide Icons](https://lucide.dev/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 ---
 

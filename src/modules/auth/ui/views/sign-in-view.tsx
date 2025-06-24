@@ -196,7 +196,7 @@ export const SignInView = () => {
 
           <div className="relative hidden flex-col items-center justify-center gap-y-4 bg-radial from-green-700 to-green-900 md:flex">
             <img src="/logo.svg" alt="Image" className="h-[92px] w-[92px]" />
-            <p className="text-2xl font-semibold text-white">My.APP</p>
+            <p className="text-2xl font-semibold text-white">Better Auth</p>
           </div>
         </CardContent>
       </Card>
