@@ -4,8 +4,8 @@ A complete and modern authentication starter built with **Next.js**, **Better Au
 
 ## ✨ Features
 
-- 🔐 Full authentication using [Better Auth](https://github.com/huntabyte/better-auth)
-- 🎨 Accessible, stylish UI with [ShadCN UI](https://ui.shadcn.dev/)
+- 🔐 Full authentication using [Better Auth](https://www.better-auth.com/)
+- 🎨 Accessible, stylish UI with [ShadCN UI](https://ui.shadcn.com/)
 - 🧠 Form validation using `react-hook-form` and `zod`
 - 🌿 Type-safe database layer using [Drizzle ORM](https://orm.drizzle.team/)
 - ☁️ PostgreSQL via [Neon](https://neon.tech/) serverless
@@ -26,6 +26,7 @@ A complete and modern authentication starter built with **Next.js**, **Better Au
 | React Hook Form | Form handling            |
 | Zod             | Schema validation        |
 | Lucide Icons    | Icon set                 |
+| React Icons     | Icon set                 |
 
 ## 🚀 Getting Started
 
